@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lvrtl, Laura Rintoul!
-- 👀 I'm a software engineer with a first class master's in mathmatical physics from Heriot-Watt university
+- 👀 I'm a software engineer with a first class MPhys in Mathematical Physics from Heriot-Watt University
 - ❓  I'm interested in programming, and have experience in Python, Spring Boot, Angular and MATLAB
 - 🌱 I'm currently working at Accolite Digital
 - My master's project was on predicting the effects of phonons on Quantum Devices
