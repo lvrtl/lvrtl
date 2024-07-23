@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @lvrtl, Laura Rintoul!
-- 👀 I'm a software engineer with a first class MPhys in Mathematical Physics from Heriot-Watt University
-- ❓  I'm interested in programming, and have experience in Python, Spring Boot, Angular and MATLAB
-- 🌱 I'm currently working at Accolite Digital
-- My master's project was on predicting the effects of phonons on Quantum Devices
-In which python was being used to simulate how electrons interact with various nanostructures' phonon spectral densities, for 
-predicting how their behaviour will be affected by them using iQUAPI hamiltonian time evolution simulations.
+- 💟 I'm a software engineer, currently working at the Scottish Government!
+- 💖 I'm trained and experienced in full stack development and have a particular interest in devops and frontend. 
+- 🌷 I also have a first class Master's in Mathematical Phyiscs from Heriot-Watt University
 - 📫 How to reach me ... lrintoul@protonmail.com
 
 <!---
